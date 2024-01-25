@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome on my training profile! 👋
 
-<!--
-**MelvilPRO/MelvilPRO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently training at Metz Numeric School (Metz, France)
+- ⚡ I'm using software development languages at school:
+- ⚡ Java & C# Using WPF with .NET framework <br> 
+[![LanguagesIcons](https://skillicons.dev/icons?i=java,cs,dotnet)](https://skillicons.dev)
+- ⚡ I'm also using web development languages:
+- ⚡ Front-end <br>
+  [![LanguagesIcons](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+- ⚡ Back-end <br>
+[![LanguagesIcons](https://skillicons.dev/icons?i=php,sqlite)](https://skillicons.dev)
+- ⚡ I also have some knowledge about server administration <br>
+[![LanguagesIcons](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+- ⚡ You have access to my training repositeries: https://github.com/MelvilPRO?tab=repositories
+- ⚡ Here you can reach my personal repositeries: https://github.com/MelvilPE?tab=repositories
