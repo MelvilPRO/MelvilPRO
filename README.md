@@ -11,5 +11,3 @@
 [![LanguagesIcons](https://skillicons.dev/icons?i=php,sqlite)](https://skillicons.dev)
 - ⚡ I also have some knowledge about server administration <br>
 [![LanguagesIcons](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-- ⚡ You have access to my training repositeries: https://github.com/MelvilPRO?tab=repositories
-- ⚡ Here you can reach my personal repositeries: https://github.com/MelvilPE?tab=repositories
